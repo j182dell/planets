@@ -23,4 +23,10 @@
     <string name="ok" />
     <string name="p1img">p1img</string>
     <string name="p2img">p2img</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="p4img">p4img</string>
+    <string name="p5img">p5img</string>
+    <string name="p6img">p6img</string>
+    <string name="p7img">p7img</string>
+    <string name="p8img">p8img</string>
 </resources>

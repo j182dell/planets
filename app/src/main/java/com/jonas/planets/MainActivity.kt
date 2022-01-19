@@ -10,13 +10,13 @@ import com.jonas.planets.databinding.ActivityMainBinding
 val planetsArray = arrayOf(
             "Mercury",
             "Venus" ,
-            "Earth" )
-
-         //   "Mars" ,
-         //   "Saturn",
-         //   "Jupiter" ,
-        //    "Uranus" ,
-        //    "Neptune"
+            "Earth" ,
+            "Mars" ,
+            "Saturn",
+            "Jupiter" ,
+            "Uranus" ,
+            "Neptune"
+            )
 
 
 class MainActivity : AppCompatActivity() {
