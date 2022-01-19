@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Planets</string>
+
+    <string name="doppelganger_image_path">doppelgangers/%d.jpg</string>
+    <string name="image_loading_error">Problem in loading image</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="planets_names">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Saturn</item>
+        <item>Jupiter</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="catimg" />
+    <string name="birdimg" />
+    <string name="dogimg" />
+    <string name="order_confirmation" />
+    <string name="ok" />
+    <string name="p1img">p1img</string>
+    <string name="p2img">p2img</string>
+</resources>
