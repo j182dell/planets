@@ -12,8 +12,8 @@ val planetsArray = arrayOf(
             "Venus" ,
             "Earth" ,
             "Mars" ,
+            "Jupiter",
             "Saturn",
-            "Jupiter" ,
             "Uranus" ,
             "Neptune"
             )

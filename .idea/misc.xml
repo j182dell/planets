@@ -8,9 +8,12 @@
         <entry key="app/src/main/res/layout/fragment_bird.xml" value="0.19072433559145388" />
         <entry key="app/src/main/res/layout/fragment_cat.xml" value="0.190625" />
         <entry key="app/src/main/res/layout/fragment_dog.xml" value="0.19072433559145388" />
+        <entry key="app/src/main/res/layout/fragment_dog_details.xml" value="0.17873892652423137" />
         <entry key="app/src/main/res/layout/fragment_doppelganger.xml" value="0.649746192893401" />
         <entry key="app/src/main/res/layout/fragment_p_1.xml" value="0.23779854620976115" />
+        <entry key="app/src/main/res/layout/fragment_p_1_info.xml" value="0.17873892652423137" />
         <entry key="app/src/main/res/layout/fragment_p_2.xml" value="0.23272357723577236" />
+        <entry key="app/src/main/res/layout/fragment_p_3.xml" value="0.20296570898980537" />
         <entry key="app/src/main/res/layout/fragment_p_4.xml" value="0.17561229807191245" />
         <entry key="app/src/main/res/layout/fragment_p_5.xml" value="0.2965708989805375" />
         <entry key="app/src/main/res/layout/fragment_p_6.xml" value="0.2965708989805375" />
