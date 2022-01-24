@@ -10,13 +10,12 @@
         android:id="@+id/imageViewP3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:contentDescription="@string/catimg"
+        android:contentDescription="@string/p3img"
         android:src="@drawable/p_3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/p_3"
-        tools:ignore="ImageContrastCheck" />
+        app:srcCompat="@drawable/p_3" />
 </androidx.constraintlayout.widget.ConstraintLayout>
